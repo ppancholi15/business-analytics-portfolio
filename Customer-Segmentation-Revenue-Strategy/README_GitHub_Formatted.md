@@ -16,7 +16,7 @@ Marketing needed an integrated view of revenue across customer demographics, acq
 
 ## 1. Customer segmentation and acquisition-channel performance
 
-![Illustrative heatmap: revenue by customer age and business source](images/age-business-source.png)
+![Customer Segmentation by Business Source](Age%20%26%20Business%20Source.png)
 
 *Illustrative heatmap based on the structure of my original Tableau analysis. All plotted values are synthetic.*
 
@@ -28,7 +28,7 @@ Marketing needed an integrated view of revenue across customer demographics, acq
 
 ## 2. Geographic revenue performance
 
-![Illustrative heatmap: revenue by customer age and location](images/age-location.png)
+![Customer Segmentation by Location](Age%20%26%20Location.png)
 
 *Illustrative geographic heatmap. Generic location labels and synthetic values replace historical branch information.*
 
@@ -40,7 +40,7 @@ Marketing needed an integrated view of revenue across customer demographics, acq
 
 ## 3. Product-class revenue performance
 
-![Illustrative heatmap: revenue by customer age and product class](images/age-product-class.png)
+![Customer Segmentation by Product Class](Age%20%26%20Class.png)
 
 *Illustrative product-category heatmap. Product labels and plotted values are synthetic.*
 
